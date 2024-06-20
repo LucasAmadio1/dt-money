@@ -23,6 +23,30 @@
         "category": "Alimentação",
         "price": 6,
         "createdAt": "2024-06-16T13:30:21.090Z"
+      },
+      {
+        "id": 4,
+        "description": "teste",
+        "type": "outcome",
+        "category": "Alimentação",
+        "price": 3500,
+        "createdAt": "2024-06-16T13:30:21.090Z"
+      },
+      {
+        "id": 5,
+        "description": "teste 2",
+        "type": "income",
+        "category": "teste 2",
+        "price": 12,
+        "createdAt": "2024-06-16T13:30:21.090Z"
+      },
+      {
+        "id": 6,
+        "description": "teste 3",
+        "type": "income",
+        "category": "teste 3",
+        "price": 150,
+        "createdAt": "2024-06-16T13:30:21.090Z"
       }
   ]
 }
